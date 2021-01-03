@@ -28,7 +28,7 @@ All of the machine learning models scored in the upper 80% range with the Random
 
 Model Performance:
 
-Random Forest Model = 89.6% 
-Deep Learning Model = 88.4% 
-Logistic Regression Model = 88.1% 
-Support Vector Machine Model = 87.5% 
+- Random Forest Model = 89.6% 
+- Deep Learning Model = 88.4% 
+- Logistic Regression Model = 88.1% 
+- Support Vector Machine Model = 87.5% 
