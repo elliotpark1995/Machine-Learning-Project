@@ -1,6 +1,6 @@
 # Machine Learning Project - Exoplanet Exploration
 
-![exoplanets.jpg](Images/exoplanets.jpg)
+![exoplanets.jpg](.../Images/exoplanets.jpg)
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system. In order to help process this data, four machine learning models capable of classifying candidate exoplanets from the raw dataset were created.
 
@@ -20,7 +20,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 3. Quantified the Models
 
 - Found the best score from the trained GridSearch model.
-- Made predicitons from the hypertuned model.
+- Made predictions from the hypertuned model.
 
 ## Findings
 
